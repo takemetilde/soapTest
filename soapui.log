@@ -1,0 +1,5 @@
+2019-02-15 08:25:48,013 WARN  [SoapUI] Missing folder [C:\Users\AF62094\Desktop\Bitbucket\test\ext] for external libraries
+2019-02-15 08:25:48,604 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\AF62094\soapui-settings.xml]
+2019-02-15 08:25:50,590 INFO  [PluginManager] 0 plugins loaded in 3 ms
+2019-02-15 08:25:50,590 INFO  [DefaultSoapUICore] All plugins loaded
+2019-02-15 08:25:52,040 INFO  [WsdlProject] Loaded project from [file:/C:/Users/AF62094/Desktop/Bitbucket/test/soapui/PF_SoapUI_Regression.xml]
